@@ -21,3 +21,5 @@ const calculator = {
 
 calculator.sub(5, 3)
 calculator.add(1, 3)
+calculator.powerOf(1, 4)
+calculator.div(4,2)
